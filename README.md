@@ -83,6 +83,6 @@ Yes, industrial-grade versions are available for harsh operating conditions.
 
 ## Request a Quote
 
-Contact Versitron today to learn more about our **4-port Ethernet switch** or to request pricing and availability.
+Contact [Versitron](https://www.versitron.com/) today to learn more about our **4-port Ethernet switch** or to request pricing and availability.
 
 ---
